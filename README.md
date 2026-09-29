@@ -1,7 +1,4 @@
-# The Places That We Leave
-
-Readme · MD
-# Audio-reactive scene
+# The Places That We Leave - Audio-reactive scene
  
 A TouchDesigner scene built for the song **"The places that we leave"**.
 
